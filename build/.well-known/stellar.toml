@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GC2UCQPU5QMTXNMZ7AADIUY74ZX6AMRK47NESFBAKO4MLALVMKC2F34P"
+"GDI6KVXZ7WT4PGBGDDKTLILHWPOTRTWHZS4LB5VXEOJ3AZR2NOL3KY3I"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="angryshiba"
-ORG_URL="https://www.angryshiba.org"
-ORG_DESCRIPTION=""
-ORG_TWITTER="@angryshiba"
-ORG_LOGO="https://i.ibb.co/cCKyP73/images-1.png"
-ORG_OFFICIAL_EMAIL="angryshiba@gmail.com"
+ORG_NAME="fountofyouth"
+ORG_URL="https://www.fountofyouth.org"
+ORG_DESCRIPTION="The Fountain of Youth, a mythical spring, allegedly restores the youth of anyone who drinks or bathes in its waters."
+ORG_TWITTER="@fountofyouth"
+ORG_LOGO="https://i.ibb.co/HHFwYqV/image.jpg"
+ORG_OFFICIAL_EMAIL="fountofyouth@gmail.com"
 
 
 [[CURRENCIES]]
-code="AngryShiba"
-issuer="GC2UCQPU5QMTXNMZ7AADIUY74ZX6AMRK47NESFBAKO4MLALVMKC2F34P"
+code="Fountofyotuh"
+issuer="GDI6KVXZ7WT4PGBGDDKTLILHWPOTRTWHZS4LB5VXEOJ3AZR2NOL3KY3I"
 anchor_asset="false"
-name="Angry Shiba"
-desc="LEASH, BONE — ShibaSwap — Innovative Reward System — The Shiba Incubator — And more. 585k+ Community Members and Growing Fast!."
-conditions="From its inception, Shiba Inu has done things differently. Starting with a supply of 1 quadrillion, our founder, Ryoshi, locked 50% in Uniswap, then “burned” the other half to Ethereum co-founder Vitalik Buterin for safekeeping."
-image="https://i.ibb.co/cCKyP73/images-1.png"
+name="FOUNTOFYOUTH"
+desc="The Fountain of Youth, a mythical spring, allegedly restores the youth of anyone who drinks or bathes in its waters."
+conditions=""
+image="https://i.ibb.co/HHFwYqV/image.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#AngryShiba was issued using the open and inclusive Stellar blockchain network.
+#Fountofyouth was issued using the open and inclusive Stellar blockchain network.
